@@ -1,0 +1,1 @@
+# How-to-Setup-a-Static-Website-Using-Nginx
